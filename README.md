@@ -1,0 +1,1 @@
+It is impossible to determine the exact geolocation by IP address: all services that allow you to find information by IP can find the location only at the city level. It is impossible to calculate your or any other exact home address by IP. This can only be done by law enforcement agencies if they contact an Internet provider in case you violate the law.
